@@ -1,5 +1,6 @@
 # Rapport Post-Événement : Atelier "Créez Votre Premier Tableau de Bord Power BI" par MLSA
 [Vidéo Youtube de l'évènement](https://www.youtube.com/watch?v=q6nnBYcBSEo)
+![bi](https://github.com/MedardTesla/Cr-ez-Votre-Premier-Tableau-de-Bord-Power-BI/blob/main/WhatsApp%20Image%202023-11-25%20%C3%A0%2010.45.37_dcb09b34.jpg)
 
 Je suis ravi de partager le succès de notre dernier événement, l'atelier "Créez Votre Premier Tableau de Bord Power BI" organisé par MLSA. Cet atelier, qui s'est déroulé le 25 novembre 2023 à 9h00 GMT, a été une expérience enrichissante pour tous les participants.
 
